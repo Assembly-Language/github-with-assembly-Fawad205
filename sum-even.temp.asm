@@ -3,7 +3,7 @@
 ;and also telll how many elemenets Even 
 ;1129
 ;Ahmad FAwad
-include irvine32.inc  
+INCLUDE c:\Users\Ahmad Fawad\.vscode\extensions\istareatscreens.masm-runner-0.4.5\native\irvine\Irvine32.inc  
 .data  
 array SWORD 1,2,3,4,5,6,7,8,9
 count Dword 0
